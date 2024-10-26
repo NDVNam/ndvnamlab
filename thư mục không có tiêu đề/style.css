@@ -1,0 +1,10 @@
+p:hover {
+  color: red;
+  background-color: yellow;
+}
+
+li {
+  float: left;
+  padding: 10px;
+  list-style: none;
+}
